@@ -33,3 +33,17 @@ Case 2:
 
 
 Case 3:
+
+	Title: Obtain CPE information 
+	Primary Actor: Corporate Developer
+	Goal in Context: The corporate developer is able to obtain CPE information from the National Vulnerability data base and store it in NIST CPE data store.
+	Stakeholders: 
+	Corporate Manager: To receive clear and relevant project information
+	Corporate Developer: To provide the relevant file/package level information 
+	Project Owner: To clearly understand corporate manager decisions to green/red light a project 
+	Preconditions: 
+	Relevant file/package information is in the National Vulnerability Database database
+	Proper file/project information is provided.  
+	Main Success Scenario: Corporate developer receives accurate CPE information information for the requested files/packages
+	Failed End Conditions: Corporate developer receives inaccurate or invalid CPE information for the requested project packages
+	Trigger: Corporate manager uploads or identifies files for which CPE information is required.
