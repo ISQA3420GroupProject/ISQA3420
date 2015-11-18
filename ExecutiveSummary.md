@@ -5,7 +5,7 @@ By participating with open source communities, numerous organizations seek for t
 
 
 Solution:  
-As a solution to the risck we are designing a system using the management principles to enablecorporate developers to check-in communal and supply chain assets, corporate Project managers to project managers to see the risk criteria associated with software projects, project manager to create and assign policy to software projects, alerting relevant people when thresholds are not reached, and the systeme will alert developers/managers of license obligations that need to be addressed when a software project is approved. 
+As a solution to the risck we are designing a system using the management principles to enable corporate developers to check-in communal and supply chain assets, corporate Project managers to project managers to see the risk criteria associated with software projects, project manager to create and assign policy to software projects, alerting relevant people when thresholds are not reached, and the systeme will alert developers/managers of license obligations that need to be addressed when a software project is approved. The system will be able to verify any software license package throught a request package initiate by the developer manager, then will be able to verify the vulnerabilities for any licences issue and will retune des response base on what the decision will be made if the external package requested can be use or not.
 
 
  
