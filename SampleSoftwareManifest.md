@@ -1,1 +1,19 @@
-Sample Software Manifest and Sample Policy Document
+Manifest
+#Document
+      DocumentLicense: CC-BY-SA 4.0
+      Author: 
+      DateCreated: 
+      ??? 
+#Package 
+      Name: 
+      SHA1: 
+      CPE: 
+      Licenses: 
+      Vulnerabilities: 
+      ???
+#File
+      Name:
+      Licenses:
+      Vulnerabilities:
+	
+
