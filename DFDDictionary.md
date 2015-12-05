@@ -42,7 +42,7 @@ File Information Request:
 
 File Information Response:
 
-Corporate Manager:An employee who is responsible for managing project information.
+Corporate Manager:An employee in the IT department who manages information regarding project
 
 Project Information Request:
 
