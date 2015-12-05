@@ -48,4 +48,4 @@ Project Information Request:
 
 Project Information Response:
 CVE Information :It is the information used to find vulnarabilities in packages.
-License Scanner: 
+License Scanner: Used to find copy left, copy right and other licenses in packages
