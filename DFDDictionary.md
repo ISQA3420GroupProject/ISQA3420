@@ -26,7 +26,7 @@ CPE Request:
 
 CPE Response:
 
-National Vulnerability Database:
+National Vulnerability Database:Vulnarabitity details of software are stored.CVE information is obtained from this database.
 
 File SHA1 Request:
 
