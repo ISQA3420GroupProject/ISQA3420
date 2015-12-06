@@ -4,8 +4,6 @@ Corporate Developer: An employee in the IT department who is responsible for man
 
 Manage Code Streams:A process in which files and packages are scanned for license information, 
 and CPE information and then the information is retreived from SPDX database when required
-FOSSology:
-
 
 
 File/Package: 
