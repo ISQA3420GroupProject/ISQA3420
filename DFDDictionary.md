@@ -1,8 +1,6 @@
 #Data Flow Diagram Dictionary
 
-Corporate Developer: An employee in the IT department who is responsible for managing code streams.
-
-File:
+Corporate Developer: An employee in the IT department who is responsible for managing code stream.
 
 Package:
 
