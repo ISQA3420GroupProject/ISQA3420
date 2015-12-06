@@ -6,7 +6,7 @@ Manage Code Streams:A process in which files and packages are scanned for licens
 and CPE information and then the information is retreived from SPDX database when required
 FOSSology:
 
-License Information:
+
 
 File/Package: 
 
