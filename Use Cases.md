@@ -4,7 +4,8 @@ Case 1:
 
       Primary Actor: Corporate Manager
 
-      Goal in Context: The corporate manager is able to determine license and vulnerability information from provided project information
+      Goal in Context: The corporate manager is able to determine license and vulnerability information from provided project
+information
 
       Stakeholders:
 
@@ -20,9 +21,11 @@ Case 1:
  
      -Proper project information has been provided  
  
-     Main Success Scenario: Corporate manager receives accurate license and vulnerability information for the requested project      packages
+     Main Success Scenario: Corporate manager receives accurate license and vulnerability information for the requested project
+packages
 
-     Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the   requested project packages
+     Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the
+     requested project packages
 
      Trigger: Corporate manager uploads or identifies project information to which license and vulnerability information is   provided
 
@@ -34,7 +37,7 @@ Case 2:
 
      Primary Actor: Corporate Developer
 
-     Goal in Context : Developer manager will be able to verify the license on the external source code to be incorporate in  the project source code
+     Goal in Context : Developer manager will be able to verify the license on the external source code to be incorporate in the project source code
 
      Stakeholders:
 
@@ -50,7 +53,7 @@ Case 2:
 
      Main Success Scenario: Developer manager receives appropriate and accurate license information on the external source code for the requested project packages.
 
-     Failed End Conditions: License information failed to meet the project guide line; or manager received inaccurate and     invalid incense information for the project.
+     Failed End Conditions: License information failed to meet the project guide line; or manager received inaccurate and invalid incense information for the project.
 
      Trigger: Developer manager uploads or identifies the external source code license information to which license was       verified.
 
