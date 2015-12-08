@@ -3,13 +3,13 @@ Group Presentation/Slides
 Slide 1
   EXECUTIVE SUMMARY
   
-slide 2
+Slide 2
   DFD PRESENTATION
   
-slide 3
+Slide 3
   DFD DICTIONARY
   
-slide 4
+Slide 4
   ERD PRESENTATION
   
 Slide 5
