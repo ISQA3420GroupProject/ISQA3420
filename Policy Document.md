@@ -1,6 +1,7 @@
-Context: Production Source 
+#Context: Production Source 
 
-#Licenses
+#Licenses:
+
 	Copyleft 
 	GPLv2 – Red 
 	GPLv3 – Black
@@ -9,7 +10,7 @@ Context: Production Source
 	Apache – Yellow
 	MIT – Green 
 
-#Vulnerabilities 
+#Vulnerabilities:
 
 	Scores
 	0 < X < 6 – Yellow
