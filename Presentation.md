@@ -34,3 +34,10 @@ Github Repository: https://github.com/ISQA3420GroupProject/ISQA3420
 ## Slide 7 (Use Cases)
 
   Text here
+
+## Slide 8 (Discuss Experience/Difficulties)
+
+  Text here
+  
+## Slide 9 (Biggest Takeaways)
+* Text here
