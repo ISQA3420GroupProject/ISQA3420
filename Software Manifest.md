@@ -1,8 +1,9 @@
 Manifest
 #Document
-      DocumentLicense: CC-BY-SA 4.0
       Author: 
       DateCreated: 
+      DocumentLicense: 
+      Comment:
       
 #Package 
       Name: 
