@@ -2,7 +2,7 @@
 
 # Databases
 * OSS License Compliance Database: Database 
-* NIST CPE Info
+* NIST CPE Info: Is the database where CPE Information is stored, it is a global database.
 * OSS Database
 * Policy Database
 
