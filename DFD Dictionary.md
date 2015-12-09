@@ -1,6 +1,16 @@
-#Data Flow Diagram Dictionary
+### Data Flow Diagram Dictionary
 
-Corporate Developer: An employee in the IT department who is responsible for managing code stream.
+# Databases
+* OSS License Compliance Database: Database 
+* NIST CPE Info
+* OSS Database
+* Policy Database
+
+#External Entities
+* Online Repository:
+* Corporate Developer: An employee in the IT department who is responsible for managing code stream.
+* Corporate Manager: 
+* National Vulnerability Database: Vulnarabitity details of software are stored, and CPE/CVE information is obtained from this database.
 
 Manage Code Streams:A process in which files and packages are scanned for license information, 
 and CPE information and then the information is retreived from SPDX database when required
@@ -16,15 +26,13 @@ CPE Request:
 
 CPE Response:
 
-National Vulnerability Database:Vulnarabitity details of software are stored.CVE information is obtained from this database.
+National Vulnerability Database:
 
 File SHA1 Request:
 
 File SHA1 Response:
 
 File License and CPE Information:
-
-SPDX Database:
 
 Manage Project Information:
 
