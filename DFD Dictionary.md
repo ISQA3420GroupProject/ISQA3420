@@ -24,7 +24,7 @@
 
 #Data Flows
 * File/Package: A single file or a collection of files in a package.
-* Project File: A single file containing code.
+* Project File: A file containing all the license, CPE, and CVE information for a project.
 * License Information: Information returned about the licenses within the file/package.
 * CPE Information: Contains all CPE information from the National Vulnerability Database.
 * Package Name: The name of the package that is/was submitted by the developer.
@@ -35,11 +35,8 @@
 * File Information Request: Request sent from the corporate manager to the OSS database for all relevant information in relation to the project.
 * File Information Response: Response sent to the corporate manager including all relevant information about the file.
 * Project Information Request: Request sent by the corporate manager for project information from the OSS database.
-* Project Information Response: Response sent back to the corporate manager about project information.
 * Project Policy Request: Corporate manager requests policy information related to the project.
-* Project Policy Response: Policy information about the project is returned to the manager.
-* Project Information Request: The policy database is queried for policy information for the project.
+* Policy Information: Policy information about the project is moved to update or compare.
 * Project Information Response: The policy information for the specific project is returned.
 * CPE Request: A request for updated CPE information from the National Vulnerability Database.
 * CPE Response: Updated CPE information is returned.
-* CVE Request: Information about the CVE of a file/package is requested from the National Vulnerability Database using CPE information.
