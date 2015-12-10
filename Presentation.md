@@ -40,4 +40,9 @@ Github Repository: https://github.com/ISQA3420GroupProject/ISQA3420
   Text here
   
 ## Slide 9 (Biggest Takeaways)
-* Text here
+
+Open source: I learnt about open source communities
+Managing in digital world: I understood that Managing in a digital world is difficult.
+Revision of concepts like ERD, DFD etc: I got an opportunity to revise topics that I learned in other classes.
+Taking care of social responsibility is very important
+Learn to work in a group and team
