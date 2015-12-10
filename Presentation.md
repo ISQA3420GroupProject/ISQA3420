@@ -13,26 +13,20 @@ Github Repository: https://github.com/ISQA3420GroupProject/ISQA3420
 # DFD
 ![alt tag](http://i.imgur.com/HUD9cS8.png)
   
-## Slide 3 (DFD Dictionary)
-
-  Text here
+## DFD Dictionary
+* The DFD Dictionary lists out and defines all of the processes, entities, data flows, and data stores found in the DFD.
   
-## Slide 4 (ERD)
+## ERD
 
-  ERD Image?
-  Text here
   
-## Slide 5 (Software Manifest)
-
-  Text here
+## Software Manifest
+  * The software manifest is an example of a manifest that companies will see.
   
-## Slide 6 (Policy Document)
-
-  Text here
+## Policy Document
+  * The Policy Document will list out the policies for each project/file/package.
   
-## Slide 7 (Use Cases)
-
-  Text here
+## Use Cases
+* The Use Cases are examples of who can use our system and how they will use it.
 
 ## Discuss Experience/Difficulties
 
