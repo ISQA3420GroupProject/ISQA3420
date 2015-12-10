@@ -6,9 +6,9 @@ Github Repository: https://github.com/ISQA3420GroupProject/ISQA3420
 * Dossovi Banka
 * Elliott Hanneman
 
-## Slide 1 (Executive Summary)
-
-  Text here
+#Executive Summary
+* Problem: By participating with open source communities, numerous organizations seek for talented developers to quickly improve and enhance the assets for their project.
+* Solution: We designed a system to enable corporate developers to use OSS while following all Management Principles.
 
 ## Slide 2 (DFD)
 
