@@ -11,13 +11,13 @@ Github Repository: https://github.com/ISQA3420GroupProject/ISQA3420
 * Solution: We designed a system to enable corporate developers to use OSS while following all Management Principles.
 
 # DFD
-![alt tag](http://i.imgur.com/HUD9cS8.png)
+![drawing](http://i.imgur.com/HUD9cS8.png)
   
 ## DFD Dictionary
 * The DFD Dictionary lists out and defines all of the processes, entities, data flows, and data stores found in the DFD.
   
 ## ERD
-
+![drawing](http://i.imgur.com/ZXK2pcW.png)
   
 ## Software Manifest
   * The software manifest is an example of a manifest that companies will see.
