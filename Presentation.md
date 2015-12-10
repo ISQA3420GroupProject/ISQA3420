@@ -10,9 +10,8 @@ Github Repository: https://github.com/ISQA3420GroupProject/ISQA3420
 * Problem: By participating with open source communities, numerous organizations seek for talented developers to quickly improve and enhance the assets for their project.
 * Solution: We designed a system to enable corporate developers to use OSS while following all Management Principles.
 
-## Slide 2 (DFD)
-
-  DFD Image?
+# DFD
+![alt tag](http://i.imgur.com/HUD9cS8.png)
   
 ## Slide 3 (DFD Dictionary)
 
@@ -35,17 +34,17 @@ Github Repository: https://github.com/ISQA3420GroupProject/ISQA3420
 
   Text here
 
-## Slide 8 (Discuss Experience/Difficulties)
+## Discuss Experience/Difficulties
 
  - Get experience using Github 
  - Better anderstanding on open sources, licenses an vulnerability.
  - get knowledge in Management principal whithing organization.
  - how relevant digital management will be in organization 
   
-## Slide 9 (Biggest Takeaways)
+## Biggest Takeaways
 
-Open source: I learnt about open source communities
-Managing in digital world: I understood that Managing in a digital world is difficult.
-Revision of concepts like ERD, DFD etc: I got an opportunity to revise topics that I learned in other classes.
-Taking care of social responsibility is very important
-Learn to work in a group and team
+* Open source: I learned about open source communities
+* Managing in digital world: I understood that Managing in a digital world is difficult.
+* Revision of concepts like ERD, DFD etc: I got an opportunity to revise topics that I learned in other classes.
+* Taking care of social responsibility is very important.
+* Learned to work in a group.
