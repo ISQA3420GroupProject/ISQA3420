@@ -37,7 +37,10 @@ Github Repository: https://github.com/ISQA3420GroupProject/ISQA3420
 
 ## Slide 8 (Discuss Experience/Difficulties)
 
-  Text here
+ -Get experience using Github 
+ - Better anderstanding on open sources, licenses an vulnerability.
+ - get knowledge in Management principal whithing organization.
+ - how relevant digital management will be in organization 
   
 ## Slide 9 (Biggest Takeaways)
 
